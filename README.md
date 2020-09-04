@@ -1,5 +1,5 @@
 # VirTuex
-Virtual Trial Room
+Android and Web based Virtual Trial Room
 ## Introduction
 
 
